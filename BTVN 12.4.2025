@@ -1,0 +1,13 @@
+BTVN
+Nhap mang 2 chieu chi chua so 0 va so 1
+Tim ra hinh vuong co dien tich lon nhat chi toan so 1
+= > in ra vi tri canh dau tien cua hinh vuong va do dai canh
+1 0 1 0 1 1 0
+0 1 1 1 1 0 1
+0 1 1 1 1 1 0
+0 1 1 1 1 1 0
+0 1 0 1 1 0 0
+
+=> xuat : max = 9 (3x3)
+   vt : 0,2 (diem dau tien) 3 (do dai canh)
+
